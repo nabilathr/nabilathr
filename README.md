@@ -58,20 +58,20 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naab213&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nabilathr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
 </p>
 
 ---
 
 ### 💬 Top Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naab213&layout=compact&theme=tokyonight&hide_border=true" alt="Time spent on GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilathr&layout=compact&theme=tokyonight&hide_border=true" alt="Time spent on GitHub" />
 </p>
 
 ---
 
 ### 📫 Where to Find Me  
-<a href="https://github.com/naab213"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
+<a href="https://github.com/nabilathr"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
 
 ---
 
