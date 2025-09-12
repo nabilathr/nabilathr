@@ -71,7 +71,9 @@
 ---
 
 ### 📫 Where to Find Me  
-<a href="https://github.com/nabilathr"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/nabila-tahri">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ---
 
