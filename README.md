@@ -20,6 +20,7 @@
 <!-- Programming badges -->
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=000000&border=2&borderColor=white" />
+  <img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=ffffff&labelColor=000000&border=2&borderColor=white" />
   <img src="https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C&logoColor=ffffff&labelColor=000000&border=2&borderColor=white" />
   <img src="https://img.shields.io/badge/-Shell-000000?style=for-the-badge&logo=gnu-bash&logoColor=ffffff&labelColor=000000&border=2&borderColor=white" />
   <img src="https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php&logoColor=ffffff&labelColor=000000&border=2&borderColor=white" /> 
@@ -58,14 +59,14 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabilathr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nabilathr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 💬 Top Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilathr&layout=compact&theme=tokyonight&hide_border=true" alt="Time spent on GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nabilathr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
